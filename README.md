@@ -16,15 +16,15 @@ In this project, I analyzed Daraz sales data to find out:
 ## Graphs in this Project
 
 ### 1. Sales by City
-![Sales by City](Daraz-Shehar.png)
+![Sales by City](Rplot01.png)
 Karachi has the highest sales. This shows most customers are from Karachi.
 
 ### 2. Sales by Month
-![Sales by Month](Daraz-Mahina.png)
+![Sales by Month](Rplot02.png)
 June has the highest sales. This shows sales increase in summer.
 
 ### 3. Profit by Product
-![Profit by Product](Daraz-Paisa.png)
+![Profit by Product](Rplot03.png)
 Mobile gives the highest profit. This shows mobile is the most profitable product.
 
 ## Key Findings
